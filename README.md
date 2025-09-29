@@ -6,7 +6,7 @@ Nie wykorzystuje frameworków ani bundlerów — kod działa bezpośrednio w prz
 ---
 
 ## Struktura projektu
-
+```
 projekt/
 │
 ├── index.html
@@ -22,7 +22,7 @@ projekt/
 │       └── kod.jpg
 │
 └── README.md
-
+```
 ---
 
 ## Uruchamianie
